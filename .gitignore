@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+/test.py
+*.log
+*.db
+*.sqlite3
+*.sqlite
+/.idea/
